@@ -1,0 +1,15 @@
+# wip hosts list intended to block mobile ads
+# feel free to contribute
+# author: Benedikt Klotz
+
+# github: github.com/Schmako/pihole_mobile_ads
+# https://raw.githubusercontent.com/Schmanko/pihole_mobile_ads/refs/heads/main/hosts
+
+#---- Default shenanigans ----
+127.0.0.1  localhost
+::1        localhost
+
+#---- Mobile ads ----
+0.0.0.0  applovin.com
+0.0.0.0  applvn.com
+0.0.0.0  unityads.unity3d.com
