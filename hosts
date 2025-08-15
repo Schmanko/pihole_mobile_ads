@@ -2,7 +2,7 @@
 # feel free to contribute
 # author: Benedikt Klotz
 
-# github: github.com/Schmako/pihole_mobile_ads
+# github: https://github.com/Schmanko/pihole_mobile_ads
 # https://raw.githubusercontent.com/Schmanko/pihole_mobile_ads/refs/heads/main/hosts
 
 #---- Default shenanigans ----
@@ -10,7 +10,14 @@
 ::1        localhost
 
 #---- Mobile ads ----
-0.0.0.0  applovin.com
+
+#  applovin
+0.0.0.0  sts.applovin.com
+0.0.0.0  ms.applovin.com
 0.0.0.0  applvn.com
+
+#  unityads
 0.0.0.0  unityads.unity3d.com
+
+# adjust
 0.0.0.0  adjust.com
