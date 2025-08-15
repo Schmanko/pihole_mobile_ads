@@ -29,3 +29,8 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
+
+# ------------
+# google
+# ------------
+0.0.0.0 googleads.g.doubleclick.net
